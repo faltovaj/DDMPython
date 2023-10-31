@@ -1,20 +1,34 @@
 
-1/ Vytvořte program, který dle zadané teploty vypíše, jaký je pocitový stav (např. je teplo, je akorát, je zima).
+1/ Vytvořte program, který dle zadané teploty vypíše, jaký je pocitový stav
+(např. je teplo, je akorát, je zima).
 
-2/ Napište program, který vypočítá absolutní hodnotu zadaného čísla. Absolutní hodnotu vyhodnoďte bez užití funkce knihovny math.
+2/ Napište program, který vypočítá absolutní hodnotu zadaného čísla. Absolutní
+hodnotu vyhodnoďte bez užití funkce knihovny math.
 
-3/ Vytvořte algoritmus pro posouzení, zda-li lze dvě vložené celočíselné hodnoty dělit beze zbytku. Výstupem programu bude jeden ze dvou stavů: lze dělit beze zbytku, nelze dělit beze zbytku.
+3/ Vytvořte algoritmus pro posouzení, zda-li lze dvě vložené celočíselné
+hodnoty dělit beze zbytku. Výstupem programu bude jeden ze dvou stavů:
+lze dělit beze zbytku, nelze dělit beze zbytku.
 
-4/ Vytvoř program, který dle zadaného měsíce číslem vypíše, jaké roční období momentálně je (např. pro 1 vypíše zima, pro 7 léto).
+4/ Vytvoř program, který dle zadaného měsíce číslem vypíše, jaké roční
+období momentálně je (např. pro 1 vypíše zima, pro 7 léto).
 
-5/ Vypište na monitor čtverec z hvězdiček. Délku strany čtverce zadá uživatel na vstupu.
+5/ Vypište na monitor čtverec z hvězdiček. Délku strany čtverce zadá uživatel
+na vstupu.
 Výstup pro číslo 3 bude:
 ***
 ***
 ***
 
-6/ Vytvořte program pro postupné zadávání známek, tzn. celých čísel v rozsahu 1–5. Pokud uživatel zadá číslo mimo rozsah, cyklus bude ukončen. Vypište, kolik známek uživatel zadal a jaký je průměr zadaných známek.
+6/ Vytvořte program pro postupné zadávání známek, tzn. celých čísel v rozsahu
+1–5. Pokud uživatel zadá číslo mimo rozsah, cyklus bude ukončen. Vypište,
+kolik známek uživatel zadal a jaký je průměr zadaných známek.
 
-7/ Vytvořte jednoduchou kalkulačku, která umí sčítat, odčítat, násobit a dělit. Uživatel zadá dvě čísla. Program se zeptá, jakou operaci chce s čísly provést (1 - sčítání, 2 - odčítání, 3 - násobení, 4 - dělení). Proveďte požadavanou operaci, výsledek vypište.
+7/ Vytvořte jednoduchou kalkulačku, která umí sčítat, odčítat, násobit a dělit.
+Uživatel zadá dvě čísla. Program se zeptá, jakou operaci chce s čísly provést
+(1 - sčítání, 2 - odčítání, 3 - násobení, 4 - dělení). Proveďte požadavanou
+operaci, výsledek vypište.
 
-8/ Rozšíření úlohy 7: Zkuste upravit program tak, aby uživatel mohl zadat více příkladů po sobě. Nápověda: Po vypisu výsledku se uživatele zeptáte, jestli chce zadat nový příklad (možnost ano/ne). Podle odpovědi bude běh programu pokračovat.
+8/ Rozšíření úlohy 7: Zkuste upravit program tak, aby uživatel mohl zadat více
+příkladů po sobě. Nápověda: Po vypisu výsledku se uživatele zeptáte, jestli
+chce zadat nový příklad (možnost ano/ne). Podle odpovědi bude běh programu
+pokračovat.
