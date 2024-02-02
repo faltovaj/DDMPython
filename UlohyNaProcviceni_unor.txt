@@ -1,0 +1,15 @@
+*** Opakování: knihovny ***
+
+1. Napište funkci, která vrátí počet dní do deadlinu. Parametr funkce bude deadline (datum). Nápověda: použijte Google, bude se hodit knihovna datetime.
+
+2. Napište funkci, které zadáte cestu do adresáře jako parametr a funkce vypíše obsah adresáře. Rozšíření: vypište pouze pythonovské soubory (přípona .py). Nápověda: použijte Google, může se hodit modul os.
+
+
+*** Opakování: řetězce (bude se nám hodit na přístě) ***
+
+3. Napište funkci, která bude mít jako parametr větu. Funkce vrátí počet slov (rozdělte větu podle mezer a spočtěte) a počet znaků.
+
+4. Napište funkci, která najde v textu čislice.
+
+5. Napište funkci, která v textu nahradí dvě mezery jednou mezerou.
+
